@@ -1,5 +1,8 @@
 # Classification-OpenAI-API: A Hilariously Serious Research Adventure
 
+[Below words are not applicable anymore, I changed structure]
+
+
 Welcome to the intriguing world of text classification using OpenAI models accessed via API. Prepare yourself for a journey filled with cutting-edge research, witty experiments, and a touch of humor. In this repository, you'll find the notebook that served as the playground for my text classification adventures. The star of the show? None other than the magnificent `gpt-3.5-turbo` model. However, fear not! The techniques discussed here can be adapted to any OpenAI model that utilizes the `openai.ChatCompletion.create` endpoint. Let's dive in!
 
 ## Data Format: Decoding the Enigma
